@@ -1,5 +1,5 @@
 ## 🚀 About Me
-#### Hello, my name is Albert Sharipov. I'm a frontend developer.
+Hello, my name is Albert Sharipov. I'm a frontend developer.
 
 
 ## Skills
@@ -7,7 +7,7 @@
 
 
 ## Projects
-1. #### UberEats ([website](https://albshar.github.io/ubereats/) | [code](https://github.com/AlbShar/ubereats)) - the site for searching and ordering some dishes. ___Stack:___ HTML, SCSS, Javascript, БЭМ, REST API.
+1.  UberEats ([website](https://albshar.github.io/ubereats/) | [code](https://github.com/AlbShar/ubereats)) - the site for searching and ordering some dishes. ___Stack:___ HTML, SCSS, Javascript, БЭМ, REST API.
 
 
 ## CodeWars
