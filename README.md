@@ -7,7 +7,7 @@
 
 
 ## Projects
-1. #### UberEats ([site](https://albshar.github.io/ubereats/) | [code](https://github.com/AlbShar/ubereats)) - the site for searching and ordering some dishes. ___Stack:___ HTML, SCSS, Javascript, БЭМ, REST API.
+1. #### UberEats ([website](https://albshar.github.io/ubereats/) | [code](https://github.com/AlbShar/ubereats)) - the site for searching and ordering some dishes. ___Stack:___ HTML, SCSS, Javascript, БЭМ, REST API.
 
 
 ## CodeWars
