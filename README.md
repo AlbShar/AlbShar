@@ -1,4 +1,4 @@
-## 🚀 About Me
+## About Me
 Hello, my name is Albert Sharipov. I'm a frontend developer.
 
 
