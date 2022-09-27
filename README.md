@@ -2,7 +2,8 @@
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-212121?style=for-the-badge&logo=Sass) ![JavaScript](https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript&logoColor=F0DB4F) ![БЭМ](https://img.shields.io/badge/БЭМ-212121?style=for-the-badge&logo=BEM&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-212121?style=for-the-badge) ![JSHint](https://img.shields.io/badge/JSHint-212121?style=for-the-badge&logo=JSHINT&logoColor=4B32C3) ![Perfect Pixel](https://img.shields.io/badge/Perfect_Pixel-212121?style=for-the-badge)  ![SEO](https://img.shields.io/badge/SEO-212121?style=for-the-badge&logo=SEO&logoColor=4B32C3) ![SQL](https://img.shields.io/badge/SQL-212121?style=for-the-badge&logo=SQL&logoColor=4B32C3)
 
 ## Projects
-1.  UberEats ([website](https://albshar.github.io/ubereats/) | [code](https://github.com/AlbShar/ubereats)) - the site for searching and ordering some dishes. ___Stack:___ HTML, SCSS, Javascript, БЭМ, REST API.
+1.  ___UberEats___ ([website](https://albshar.github.io/ubereats/) | [code](https://github.com/AlbShar/ubereats)) - the site for searching and ordering some dishes. Stack: HTML, SCSS, Javascript, БЭМ, REST API.
+2.  ___YoutubeTimecode___ ([code](https://github.com/AlbShar/extension-youtubeTimecode)) - the browser extension for streams on Youtube, which allows create timecodes and descriptions by them in real time. Stack: HTML, CSS, vanilla Javascript, Chrome API.
 
 ## Cources
 1. [Responsive Web Design.](https://freecodecamp.org/certification/al_shar/responsive-web-design)
