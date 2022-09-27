@@ -6,10 +6,10 @@
 2.  ___YoutubeTimecode___ ([code](https://github.com/AlbShar/extension-youtubeTimecode)) - the browser extension for streams on Youtube, which allows create timecodes and descriptions by them in real time. Stack: HTML, CSS, vanilla Javascript, Chrome API.
 
 ## Cources
-1. [Responsive Web Design.](https://freecodecamp.org/certification/al_shar/responsive-web-design)
-2. [Веб-разработка для начинающих: HTML и CSS.](https://stepik.org/cert/1190087)
-3. [Основы поисковой оптимизации (SEO). Факторы ранжирования сайтов.](https://stepik.org/cert/1604438)
-4. [Интерактивный тренажер по SQL.](https://stepik.org/cert/1070726)
+1. [Responsive Web Design.](https://drive.google.com/file/d/1eQmuRE89wyT7DjY0IXr_7mcWcNOOnay_/view?usp=sharing)
+2. [Веб-разработка для начинающих: HTML и CSS.](https://drive.google.com/file/d/18YArF7SUtugi9baCGMhpHGUnhwyj5tUz/view?usp=sharing)
+3. [Основы поисковой оптимизации (SEO). Факторы ранжирования сайтов.](https://drive.google.com/file/d/19mj9H4hVR2uTRLAdjHqYKbM8C8MLvjnV/view?usp=sharing)
+4. [Интерактивный тренажер по SQL.](https://drive.google.com/file/d/1RoorLd-SVnFnN7RKvLtkF4I4uo3-8Lev/view?usp=sharing)
 
 ## CodeWars
 ![CodeWars](https://www.codewars.com/users/Alb_Shar/badges/large)
