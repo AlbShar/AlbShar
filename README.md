@@ -1,6 +1,6 @@
 ## Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/Alb_Shar)
-[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)]((https://wa.me/79110058235))
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)]()
+[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)]()
 
 ## Projects
 1.  ___UberEats___ ([website](https://albshar.github.io/ubereats/) | [code](https://github.com/AlbShar/ubereats)) - the site for searching and ordering some dishes. Stack: HTML, SCSS, Javascript, БЭМ, REST API.
