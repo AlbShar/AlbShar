@@ -1,6 +1,7 @@
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)]()
 [![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)]()
+[![mail](https://img.shields.io/badge/mail-111111?style=for-the-badge&logo=mail.ru)](mailto:)
 
 ## Projects
 1.  ___UberEats___ ([website](https://albshar.github.io/ubereats/) | [code](https://github.com/AlbShar/ubereats)) - the site for searching and ordering some dishes. Stack: HTML, SCSS, Javascript, БЭМ, REST API.
