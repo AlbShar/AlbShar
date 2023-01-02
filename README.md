@@ -16,7 +16,7 @@
 2. **Udemy**
    - [Javascript + React](#), 05.2022 - now
 3. **Stepik**
-   - [Веб-разработка для начинающих: HTML и CSS](https://drive.google.com/file/d/18YArF7SUtugi9baCGMhpHGUnhwyj5tUz/view?usp=sharing), 09.2021-12.2021
+   - [Веб-разработка для начинающих: HTML и CSS](https://drive.google.com/file/d/18YArF7SUtugi9baCGMhpHGUnhwyj5tUz/view?usp=sharing), 09.2021-11.2021
    - [Основы поисковой оптимизации (SEO). Факторы ранжирования сайтов](https://drive.google.com/file/d/19mj9H4hVR2uTRLAdjHqYKbM8C8MLvjnV/view?usp=sharing), 08.2022
    - [Интерактивный тренажер по SQL](https://drive.google.com/file/d/1RoorLd-SVnFnN7RKvLtkF4I4uo3-8Lev/view?usp=sharing), 07.2021-09.2021
 
