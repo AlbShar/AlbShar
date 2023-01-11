@@ -1,3 +1,4 @@
+## Hello! My name is Albert Sharipov and I'm a Frontend React Developer. 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)]()
 [![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)]()
@@ -22,3 +23,7 @@
 
 ## CodeWars
 ![CodeWars](https://www.codewars.com/users/Alb_Shar/badges/large)
+
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbShar&show_icons=true&theme=tokyonight)
+
