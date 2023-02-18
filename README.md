@@ -5,7 +5,7 @@
 [![mail](https://img.shields.io/badge/mail-212121?style=for-the-badge&logo=mail.ru)](mailto:)
 
 ## Projects
-1. ___QuizFrontend___ ([demo](https://albshar.github.io/quizFrontend/) | [code](https://github.com/AlbShar/quizFrontend)) - the quiz for Frontend (React) Developers. _TypeScript, React, Styled Components, Module Pattern_.
+1. ___QuizFrontend___ ([demo](https://albshar.github.io/quizFrontend/) | [code](https://github.com/AlbShar/quizFrontend)) - the quiz for Frontend (React) Developers. _TypeScript, React, Styled Components, Firebase, Module Pattern_.
 2.  ___UberEats___ ([demo](https://albshar.github.io/ubereats/) | [code](https://github.com/AlbShar/ubereats)) - the site for searching and ordering some dishes. _HTML, SCSS, Javascript, БЭМ, REST API_.
 
 ## Skills
