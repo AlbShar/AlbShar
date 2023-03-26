@@ -10,6 +10,4 @@
 ## CodeWars
 ![CodeWars](https://www.codewars.com/users/Alb_Shar/badges/large)
 
-## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlbShar&show_icons=true&theme=tokyonight)
 
