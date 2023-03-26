@@ -4,10 +4,6 @@
 [![whatsapp](https://img.shields.io/badge/whatsapp-212121?style=for-the-badge&logo=whatsapp)]()
 [![mail](https://img.shields.io/badge/mail-212121?style=for-the-badge&logo=mail.ru)](mailto:)
 
-## Projects
-1. ___QuizFrontend___ ([demo](https://albshar.github.io/quizFrontend/) | [code](https://github.com/AlbShar/quizFrontend)) - the quiz for Frontend (React) Developers. _TypeScript, React, Styled Components, Firebase, Module Pattern_.
-2.  ___UberEats___ ([demo](https://albshar.github.io/ubereats/) | [code](https://github.com/AlbShar/ubereats)) - the site for searching and ordering some dishes. _HTML, SCSS, Javascript, БЭМ, REST API_.
-
 ## Skills
   ![JavaScript](https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript&logoColor=F0DB4F) ![TypeScript](https://img.shields.io/badge/TypeScript-212121?style=for-the-badge&logo=typescript&logoColor=blue) ![React](https://img.shields.io/badge/React-212121?style=for-the-badge&logo=React&logoColor=blue) ![Styled-Components](https://img.shields.io/badge/Styled_Components-212121?style=for-the-badge&logo=StyledComponents&logoColor=pink) ![HTML5](https://img.shields.io/badge/-HTML5-212121?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-212121?style=for-the-badge&logo=css3&logoColor=1572B6) ![SCSS](https://img.shields.io/badge/-SCSS-212121?style=for-the-badge&logo=Sass) ![Githib](https://img.shields.io/badge/Githib-212121?style=for-the-badge&logo=github&logoColor=white) ![БЭМ](https://img.shields.io/badge/БЭМ-212121?style=for-the-badge&logo=BEM&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-212121?style=for-the-badge&logo=Firebase) ![REST API](https://img.shields.io/badge/REST_API-212121?style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-212121?style=for-the-badge&logo=Figma&logoColor=pink)
 
