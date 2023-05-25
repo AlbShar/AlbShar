@@ -9,4 +9,3 @@
 ## CodeWars
 ![CodeWars](https://www.codewars.com/users/Alb_Shar/badges/large)
 
-
